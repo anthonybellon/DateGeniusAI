@@ -1,0 +1,11 @@
+pandas
+pyarrow
+openai
+langchain
+requests
+jupyter
+flask
+beautifulsoup4
+lxml
+python-dotenv
+scikit-learn
